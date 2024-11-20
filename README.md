@@ -1,9 +1,9 @@
 # Bulkdownload
 批量下载图片
 
-image.py 图片提取    
-Bulkdownload.py 图片批量下传    
-down_dir.py 图片提取    
+image.py 图片地址提取    
+Bulkdownload.py 图片批量下载    
+down_dir.py 图片下载目录    
 
 images.txt    
 ```
